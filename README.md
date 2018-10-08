@@ -4,3 +4,6 @@ Assignment of FIT5192 Enterprise and Internet Applications Development Semester 
 what i make is a system which can let anyone publish their order price (Including buy price or sale price)
 
 this project includes assignment requirment, design report and project.
+
+
+I have made more complecate system(mainly in mechanism) than the assignment asking.
