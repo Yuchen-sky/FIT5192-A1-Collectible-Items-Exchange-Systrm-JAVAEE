@@ -1,0 +1,2 @@
+insert into users values(6,'testing@163.com','Open2018@',1,'Bob','Shen','Suzhou',12456782,4000.00,0,0);
+insert into users values(1,'test@163.com','Open2018@',3,'Potter','Shen','Suzhou',12456782,3000.00,0,0);
