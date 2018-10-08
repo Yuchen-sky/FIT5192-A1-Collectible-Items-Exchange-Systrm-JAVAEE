@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="CTX-EJBPUv4" transaction-type="JTA">
+    <jta-data-source>fit5192DataSource</jta-data-source>
+    <class>fit5192.stu29184517.repository.entities.BuyOrder</class>
+    <class>fit5192.stu29184517.repository.entities.Commodity</class>
+    <class>fit5192.stu29184517.repository.entities.CommodityType</class>
+    <class>fit5192.stu29184517.repository.entities.Exchange</class>
+    <class>fit5192.stu29184517.repository.entities.SaleOrder</class>
+    <class>fit5192.stu29184517.repository.entities.Types</class>
+    <class>fit5192.stu29184517.repository.entities.Users</class>
+    <class>fit5192.stu29184517.repository.entities.Possession</class>
+    <exclude-unlisted-classes>true</exclude-unlisted-classes>
+    <properties>
+    </properties>
+  </persistence-unit>
+</persistence>
